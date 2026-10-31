@@ -1,4 +1,4 @@
-package com.github.clclcmcm12345-max.mybridgemod;
+package com.github.KINGkorea.mybridgemod;
 
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.init.Blocks;
